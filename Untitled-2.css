@@ -1,0 +1,20 @@
+body{
+    background-color: #a5632a;
+}
+
+.header{
+    color: blue;
+}
+
+.words{
+    color: white;
+}
+
+.links{
+    color: red;
+}
+
+.parent{
+    display: flex;
+    gap: 5px;
+}
